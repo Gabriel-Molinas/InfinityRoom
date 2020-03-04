@@ -1,6 +1,6 @@
 <h1 align="center">Unity - Infinite Room</h1>
 
-[========]
+------------
 
 <p align="center"><a href="" target="_blank" rel="noopener noreferrer"><img width="150" src="https://drive.google.com/uc?export=view&id=1VAnTmz8TGl3CVUgUp1c-bSyO9DgpYipy" alt="Casco"></a></p>
 
