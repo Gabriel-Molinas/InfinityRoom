@@ -2,7 +2,7 @@
 
 ------------
 
-<p align="center"><a href="" target="_blank" rel="noopener noreferrer"><img width="200" src="https://drive.google.com/uc?export=view&id=1VAnTmz8TGl3CVUgUp1c-bSyO9DgpYipy" alt="Casco"></a></p>
+<p align="center"><a href="" target="_blank" rel="noopener noreferrer"><img width="200" src="https://github.com/Casco-csv/InfinityRoom/blob/master/img/pp.jpg?raw=true" alt="Casco"></a></p>
 
 
 ## What is Infinite Room?
@@ -14,7 +14,7 @@
 ## Demonstration video
 
 
-[![](https://drive.google.com/uc?export=view&id=1pdMMoAGWC9LDKaLWhA-BZJ4vZ6Xt_ub8)](https://www.youtube.com/watch?v=YeXlSSSUNqU&feature=youtu.be)
+[![](https://github.com/Casco-csv/InfinityRoom/blob/master/img/Captura.PNG?raw=true)](https://www.youtube.com/watch?v=YeXlSSSUNqU&feature=youtu.be)
 
 ------------
 
